@@ -1,0 +1,15 @@
+.navSection{
+  background-color: gray;
+  border: 3px solid black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.navSection ul li{
+  display: inline-flex;
+  list-style: none;
+  padding: 5px;
+  margin: 5px;
+  color: white;
+  font-size: 30px;
+}
